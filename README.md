@@ -1,6 +1,13 @@
 
 ## Primeiro projeto react com typescript
 
+### `Tela inicial`
+![github explorer](https://user-images.githubusercontent.com/45233696/83465198-89d18900-a449-11ea-8ac6-75f6917080c7.png)
+
+### `Tela detalhes do repositório`
+![github explorer 2](https://user-images.githubusercontent.com/45233696/83465204-8b9b4c80-a449-11ea-9a91-1c4f2192a2ff.png)
+
+
 In the project directory, you can run:
 
 ### `yarn start`
